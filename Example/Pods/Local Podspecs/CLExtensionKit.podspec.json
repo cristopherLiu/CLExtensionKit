@@ -18,5 +18,28 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "CLExtensionKit/Classes/**/*"
+  "source_files": "CLExtensionKit/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "AlamofireImage": [
+
+    ],
+    "AlamofireObjectMapper": [
+
+    ],
+    "ObjectMapper": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "RealmSwift": [
+
+    ],
+    "SignalR-ObjC": [
+
+    ]
+  }
 }
