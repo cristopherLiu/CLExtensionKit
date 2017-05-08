@@ -1,0 +1,6 @@
+framework module CLExtensionKit {
+  umbrella header "CLExtensionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

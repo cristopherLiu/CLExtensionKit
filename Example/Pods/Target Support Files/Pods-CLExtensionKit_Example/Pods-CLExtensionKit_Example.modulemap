@@ -1,0 +1,6 @@
+framework module Pods_CLExtensionKit_Example {
+  umbrella header "Pods-CLExtensionKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
